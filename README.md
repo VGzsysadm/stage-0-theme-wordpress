@@ -1,2 +1,2 @@
 # stage-0-theme-wordpress
-Essentials files defined for me
+Essentials files for theming wordpress for fast clone.
